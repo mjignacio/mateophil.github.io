@@ -5,7 +5,7 @@
 #
 
 # no trailing slash
-url: https://point-theme.netlify.app
+url: ssh://git@github.com/mjignacio/mateophil.github.io.git/
 
 # for header and meta tags
 title: PHIL174
