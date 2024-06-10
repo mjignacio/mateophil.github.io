@@ -1,26 +1,24 @@
 ---
 ---
 
-## 🤷 What I do
+## Goal
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The goal of this project is to outline the use of data accessible in the real world to aid in the 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This could help 
 
-## 🦕 What I've done before
+## Problem Definition
 
-Purus non enim praesent elementum facilisis. In aliquam sem fringilla ut. Hac habitasse platea dictumst vestibulum rhoncus est. Ut porttitor leo a diam sollicitudin.
+Larceny is the unlawful taking or theft of property from a person or business. This term could range from an individual to a coordinated group which provides opportunity to get more granular. Specifically this targets individuals who steal for themselves or from necessity. The model is not intended to predict large scale operations but struggling families who need the basics to survive. 
 
-Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Venenatis urna cursus eget nunc. Dui accumsan sit amet nulla facilisi morbi tempus. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Sem viverra aliquet eget sit amet tellus cras.
+Products like groceries, personal care products, and suitable clothes for the season are the kinds of items that people need for survival. In desperation crime seems like a suitable solution and it is hard to blame a person if there is no where left to go. Food and diapers are commonly shoplifted due to necesity so instead of legally punishing people, furthering their struggle, instead communities can come together to uplift those in need.
 
-Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Ipsum faucibus vitae aliquet nec. Ac auctor augue mauris augue neque gravida. Neque egestas congue quisque egestas.
+I personally imagine applying this data science effort to San Francisco California because I am familiar with the area personally and it is highly applicable to the city. 
 
-## 👋🏻 Say hi
+## Success?
 
 Wanna chat? Feel free to reach out!
 
-- Source code: [@katmh/point-theme](http://github.com/katmh/point-theme)
-- [Issues](https://github.com/katmh/point-theme/issues)
 
 ## 📠 Fun facts
 
