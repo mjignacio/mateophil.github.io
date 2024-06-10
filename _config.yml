@@ -8,13 +8,8 @@
 url: ssh://git@github.com/mjignacio/mateophil.github.io.git/
 
 # for header and meta tags
-<<<<<<< HEAD
 title: PHIL174
 description: Class title
-=======
-title: Phil 174
-description: description for search engines and social media cards
->>>>>>> a45f80a87468ad7ec3bef36fc31ab0eb4a44ac17
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
