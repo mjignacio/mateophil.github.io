@@ -2,6 +2,6 @@
 title: Justice
 ---
 
-Gravida cum sociis natoque penatibus et magnis. Tempus egestas sed sed risus pretium. Lobortis scelerisque fermentum dui faucibus in ornare quam viverra orci. Donec enim diam vulputate ut pharetra sit. Odio ut sem nulla pharetra. Libero enim sed faucibus turpis in eu.
+## How Would this Increase Justice
 
-A erat nam at lectus urna duis. Facilisis leo vel fringilla est. Ut tortor pretium viverra suspendisse potenti nullam ac. Eget magna fermentum iaculis eu non. Aliquam vestibulum morbi blandit cursus risus at ultrices mi.
+With the ability to view more specifically, where people could be in need of assistance before they resort to crime, we can reduce the amount of stress on people. This should relieve people of not only their momentary concerns like hunger or self preservation. But also their mental health knowing that they have the support of a reliable source of food and do not have to feel scared that they can be arrested for trying to survive. One less thing to worry about financially. 
