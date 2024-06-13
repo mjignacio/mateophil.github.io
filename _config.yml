@@ -5,7 +5,7 @@
 #
 
 # no trailing slash
-url: https://mjignacio.github.io/mateophil.github.io/
+url: https://mjignacio.github.io/mateophil.github.io
 
 # for header and meta tags
 title: PHIL174
@@ -16,19 +16,19 @@ description: Class title
 nav-links:
   - name: Home
     url: /
-    external: true
+    external: false
   - name: Collection and Measurement
     url: /cam
-    external: true
+    external: false
   - name: Modeling and Analysis
     url: /maa
-    external: true
+    external: false
   - name: Uses and Justice
     url: /justice
-    external: true
+    external: false
   - name: Revisions
     url: /revisions
-    external: true
+    external: false
 
 
 # for the homepage image + big text next to it
