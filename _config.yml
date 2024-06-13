@@ -26,6 +26,9 @@ nav-links:
   - name: Justice
     url: /justice
     external: false
+  - name: revisions
+    url: /revisions
+    external: false
 
 # for the homepage image + big text next to it
 # greeting_image: /assets/me.jpg
