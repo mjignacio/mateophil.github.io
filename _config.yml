@@ -16,19 +16,19 @@ description: Class title
 nav-links:
   - name: Home
     url: /
-    external: false
+    external: true
   - name: Collection and Measurement
     url: /cam
-    external: false
+    external: true
   - name: Modeling and Analysis
     url: /maa
-    external: false
+    external: true
   - name: Uses and Justice
     url: /justice
-    external: false
+    external: true
   - name: Revisions
     url: /revisions
-    external: false
+    external: true
 
 
 # for the homepage image + big text next to it
