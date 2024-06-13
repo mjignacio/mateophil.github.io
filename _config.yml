@@ -29,6 +29,7 @@ nav-links:
   - name: Revisions
     url: /revisions
     external: false
+    
 
 # for the homepage image + big text next to it
 # greeting_image: /assets/me.jpg
