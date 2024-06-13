@@ -26,7 +26,7 @@ nav-links:
   - name: Justice
     url: /justice
     external: false
-  - name: revisions
+  - name: Revisions
     url: /revisions
     external: false
 
